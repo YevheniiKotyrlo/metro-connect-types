@@ -1,0 +1,16 @@
+{
+  "name": "metro-connect-types",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "tsc -p ."
+  },
+  "dependencies": {
+    "metro": "0.87.2",
+    "metro-config": "0.87.2"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "6.0.3"
+  }
+}

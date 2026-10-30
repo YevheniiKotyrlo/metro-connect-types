@@ -1,0 +1,4 @@
+node_modules/
+# The metro checkout the steps build main from
+/metro-main/
+*.log
